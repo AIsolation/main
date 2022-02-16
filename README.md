@@ -9,8 +9,7 @@ Proyecto de detección de la soledad prematuramente
 
 
 ## Objetivo
-
-
+Procesar un texto como respuesta a unas preguntas para determinar si el inviduo se encuentra solo o no.
 
 ## Estructura del proyecto
 ### Input
@@ -25,7 +24,10 @@ Con este modelo ya entrenado se analiza el input.
 Modelo obtenido de Hugging Face, concretamente es el pysentimiento.
 
 ### Modelo obtención de soledad
+El archivo aisolation.py es el modelo final donde se utiliza el algoritmo supervisado regresivo RandomForest.
 
+### Dataset
+Modelo final entrenado con datos_serena_mod.csv.
 
 ## Notebook Google Colab
 Notebook: https://colab.research.google.com/drive/1SDWTV6KKTI0vJ_Tf32n8QWG-6fF_sK0I?usp=sharing
