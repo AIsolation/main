@@ -12,3 +12,19 @@ Proyecto de detección de la soledad prematuramente
 
 
 
+## Estructura del proyecto
+### Input
+
+### Interfaz
+
+### Modelo de procesamiento del input
+
+### Modelo obtención de soledad
+
+###
+
+## Notebook Google Colab
+
+
+## Links externos
+
