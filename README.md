@@ -9,7 +9,7 @@ Proyecto de detección de la soledad prematuramente
 
 
 ## Objetivo
-Procesar un texto como respuesta a unas preguntas para determinar si el inviduo se encuentra solo o no.
+Procesar un texto como respuesta a unas preguntas para determinar si el individuo se encuentra solo o no.
 
 
 ## Estructura del proyecto
