@@ -38,7 +38,7 @@ Modelo final entrenado con datos_serena_mod.csv.
 
 
 ## Notebook Google Colab
-Notebook: https://colab.research.google.com/drive/1SDWTV6KKTI0vJ_Tf32n8QWG-6fF_sK0I?usp=sharing
+Notebook: https://colab.research.google.com/drive/1s44drJEzbw6BTeabrKGIGlCEnVCZ5j1B
 
 
 ## Links externos
