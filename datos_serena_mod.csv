@@ -1,0 +1,279 @@
+,sexo,edad,vive_solo,comentario,hay_soledad
+0,masculino,50,False,excelente,0
+1,femenino,26,False,bien trabajando,0
+2,femenino,25,True,Esto es una prueba libre,1
+3,femenino,25,True,bien,0
+4,femenino,0,False,feomenal amigo,1
+5,masculino,0,False,agotadora,1
+6,femenino,26,False,bien porque no estoy trabajando,1
+7,masculino,0,False,ver,0
+8,femenino,24,False,la semana me ha ido bien he estado con mis compañeros de piso he visto a mi familia y a mi pareja ha sido divertida y entretenida,0
+9,otro,40,True,bien algo cansado y un poco aburrido,1
+11,femenino,23,True,un poco estresada pero bien,0
+12,femenino,58,True,muy bien,1
+13,femenino,71,True,semana he estado todo el rato en casa viendo la tele no he salido a comprar y no he visto a mi familia estoy enferma y no he podido salir a la calle,1
+14,femenino,0,False,nieto no viene a verme a casa desde hace mucho me he pasado el día viendo la televisión,1
+15,femenino,0,False,bien,0
+16,femenino,0,True,muy bien,0
+17,otro,105,False,gustaría que contara cómo,1
+18,prefiero no contestar,0,True,mal,1
+19,masculino,0,False,muy bien,1
+20,femenino,0,False,excelente,0
+21,femenino,42,False,estupendo,0
+22,masculino,0,False,Hablar con mi ayudante Serena,1
+23,masculino,26,False,hay uno muy bien,1
+24,prefiero no contestar,0,False,mal,1
+25,femenino,0,True,6,1
+26,masculino,0,True,bien,1
+27,prefiero no contestar,0,False,bien,0
+28,prefiero no contestar,0,True,no lo se,1
+29,masculino,50,True,pues no he salido de casa más que para visitar a mi madre,1
+30,masculino,19,True,genial,0
+31,femenino,21,False,estado muy cansada,1
+32,masculino,51,True,Hablar con mi ayudante Serena,0
+33,femenino,60,False,en una semana me ha ido bien estoy trabajando y por lo tanto tengo pocas horas libres y estoy esperando pero con verdadera ansia que llegue el sábado para poder tener sábado y domingo un poquito de tiempo para estar con mi marido y hacer las cosas,0
+34,femenino,0,False,regular,1
+35,masculino,43,True,small,1
+36,masculino,59,True,excelente,0
+37,femenino,0,False,más o menos,1
+38,femenino,38,True,una semana muy aburrida,1
+39,masculino,0,False,no ha ido mal del todo hasta do entretenida la semana verdad,1
+40,femenino,21,False,debería estar estudiando,1
+41,masculino,0,True,bien,0
+42,masculino,51,True,Pon el termostato a 20 grados,1
+43,masculino,51,True,deputamadre,0
+44,masculino,51,False,muy bien,0
+45,femenino,58,True,bien mucho trabajo,0
+46,femenino,45,False,un poco estresante siempre tengo muchas cosas que hacer,1
+47,femenino,0,True,muy bien,1
+48,femenino,20,False,muestrame tiendas deportivas en el virrey,1
+49,masculino,17,False,creo que bien,1
+50,masculino,25,False,excelente,0
+51,femenino,41,False,un desastre,1
+52,femenino,27,True,deputamadre,1
+53,masculino,29,True,Bien,0
+54,masculino,0,False,entretenida y con sorpresa al final,0
+55,masculino,0,False,excelente,1
+56,femenino,0,False,mal,1
+57,masculino,0,False,muy bien,0
+58,masculino,34,False,trabajar. trabajar y descansar,0
+59,femenino,0,False,pues bien creo,1
+60,masculino,24,False,la semana ha estado bien en el trabajo,1
+61,masculino,30,False,muy bien,0
+62,femenino,38,False,normal,0
+63,femenino,0,True,sola,1
+64,prefiero no contestar,0,False,super bien,0
+65,masculino,0,False,mal,1
+66,femenino,37,False,regular,0
+67,femenino,48,False,regular,0
+68,femenino,63,False,Me ha ido regular. No he podido ir a clase de tai chi porque mi nieta trabajaba y no pudo traerme al centro. Además no ha venido mi hijo a comer conmigo en toda la semana. Estoy bastante triste estos días,1
+69,masculino,50,False,de momento con mucho trabajo y muy cansada,0
+70,masculino,0,False,sí sí escuchando,1
+71,masculino,0,False,Me ha ido regular. No he podido ir a clase de tai chi porque mi nieta trabajaba y no pudo traerme al centro. Además no ha venido mi hijo a comer conmigo en toda la semana. Estoy bastante triste estos días,1
+72,masculino,67,False,pues la semana bastante bien haciendo mis aficiones y llevando los niños al colegio caminando que lo que me gusta y después pues el compartir con mi pareja los rato que estamos,0
+73,masculino,63,False,la semana ha sido regular hemos tenido la nieta que ha estado un poco enferma,0
+74,masculino,50,False,bastante bien aunque estoy bastante cansado al final de la semana,0
+75,femenino,0,False,pues de momento bien he ido a hacer actividades la gimnasia,0
+76,masculino,66,False,muy bien me he movido bastante he tenido bastantes cosas que leer mucho que hacer muy bien muy entretenido,0
+77,masculino,62,False,pues esta última semana ha sido una semana bastante,0
+78,femenino,50,False,la semana bien un poco ajetreada y esperando que llegue el fin de semana,0
+79,femenino,62,False,pues de momento fenomenal,1
+80,femenino,66,False,bueno pues con algunos desencuentros,1
+81,femenino,65,False,pues dentro de lo que cabe bien,0
+82,femenino,70,True,no he parado quieta,0
+83,femenino,42,False,pues mira la semana un poco mal porque ando con vértigos y no me encuentro bien para poderme levantar así que aquí estoy tumbada y en reposo,1
+84,masculino,62,False,pues esta semana me ha ido bastante bien porque teníamos del cumpleaños de un amigo y hemos hecho mucha fiesta,0
+85,femenino,71,False,muy bien celebramos nuestro aniversario y la verdad es que muy bien gracias,0
+86,masculino,74,False,la semana me ha ido muy bien,0
+87,femenino,73,False,muy bien porque he actuado de poetas,0
+88,femenino,73,False,la semana ha ido bastante bien puesto que he tenido una actividad junto con otros compañeros y ha sido bastante agradable y ha ido bien,0
+89,femenino,66,False,la semana pues me ha ido muy bien,0
+90,femenino,69,False,normal como cualquier otra semana,0
+91,femenino,69,False,lo hemos pasado muy bien con las actividades de C&A,0
+92,masculino,72,False,muy bien,0
+93,femenino,72,True,pues esta semana me ha ido muy bien porque me he rodeado de mis hijos y amigos muy queridos me lo he pasado bien gracias,1
+94,femenino,29,False,bien,0
+95,masculino,76,False,bien,0
+96,masculino,77,False,muy bien,0
+97,masculino,70,False,bien,0
+98,femenino,0,False,pues esta semana he estado muy tranquila porque he tenido poco trabajo y un poco triste porque se me ha muerto el canario,0
+99,masculino,62,False,la semana me ha ido bastante bien estoy contento porque he tenido un montón de actividades,0
+100,masculino,62,False,la semana me ha ido bien,0
+101,femenino,71,False,bien,0
+102,femenino,61,False,fantástica muy bien,0
+103,femenino,68,True,la semana bien haciendo mis actividades estupendamente,0
+104,femenino,78,True,bien,0
+105,masculino,78,False,muy bien,0
+106,femenino,69,False,perfectamente,0
+107,masculino,64,False,bien,0
+108,femenino,68,True,bien está empezando por qué es martes pero va bien,0
+109,femenino,65,True,pues bien ocupada con muchas actividades,0
+110,femenino,61,True,pues la semana muy bien,0
+111,masculino,71,False,muy bien,0
+112,femenino,17,False,pues bien he participado en un taller de poesía y hemos salido en un CEAM a reclamar las poesías,0
+113,femenino,37,False,un poco flojita,0
+114,femenino,50,False,pues esta semana he estado muy ajetreada y tengo un proyecto nuevo y estoy muy ilusionada,0
+115,femenino,69,False,muy bien,0
+116,femenino,69,False,normal como las anteriores,0
+117,femenino,69,False,regular,1
+118,femenino,63,False,pues teniendo en cuenta que solamente llevamos 3 días me ha ido bien como todas las semanas,0
+119,femenino,50,False,esta semana he estado muy estresada porque he tenido demasiado trabajo estoy esperando que llegue el fin de semana a ver si me relajo,0
+120,femenino,50,False,pues esta semana he estado triste porque se me ha muerto el canario y además nadie ha venido a visitarme,0
+121,femenino,73,True,bastante bien aunque he sentido en algunos momentos soledad,1
+122,masculino,87,False,pues realmente fantástica hemos dado un concierto y muy bien,0
+123,femenino,23,False,la semana pues me ha ido muy bien,0
+124,femenino,69,False,bien,0
+125,femenino,68,False,muy bien muy bien con muchas actividades y muy bien,0
+126,femenino,64,False,me ha ido muy bien,0
+127,masculino,84,False,regular,1
+128,femenino,70,True,de momento bien,0
+129,masculino,0,False,bien,0
+130,femenino,63,True,bien como siempre,1
+131,femenino,65,False,esta semana me ha ido muy bien he estado toda la semana acompañada de de gente agradable de personas que me han hecho mucho bien,0
+132,masculino,0,False,con altibajos cielo soleado con nubes,1
+133,femenino,64,False,la semana he estado ocupada y ha ido bien,0
+134,femenino,60,False,pues esta semana ha pasado muy lenta porque he tenido poco trabajo me he aburrido y me he sentido un poco triste,0
+135,femenino,70,False,pues esta semana no he estado muy bien porque me han dado dos malas noticias y todavía me estoy recuperando a ver si la próxima semana me encuentro mejor,1
+136,masculino,66,False,bastante bien,0
+137,femenino,74,True,pues esta semana he estado un poco decaída porque no ha habido clase en el fea y además mi perrito se ha puesto malito pero yo creo que la semana que viene ya me encontraré mejor,1
+138,femenino,69,True,un poco mal,1
+139,femenino,66,False,bien he ido todos los días al CEAM y luego he estado con mi marido y a pasear y bien,0
+140,femenino,73,False,pues esta semana he estado un poco sola porque mis hijos han estado de viaje y mis padres no han venido a visitarme,1
+141,femenino,65,True,pues muy bien,0
+142,femenino,62,False,regular,1
+143,masculino,66,False,muy bien esta semana hemos tenido ensayo para música para ayudar un poquito los abueletes de aquí de la Cruz Roja y estupendo muy bien no se ha ido,0
+144,masculino,74,False,me ha ido bastante bien,0
+145,masculino,60,False,pues esta semana me ha ido regular porque he tenido una discusión con uno de mis hijos,0
+146,otro,0,False,bueno mira a ver te comento el lunes me levanté y,0
+147,masculino,62,False,pues esta semana me ha ido bastante bien y ha sido una semana tranquila sin muchos conflictos,0
+148,masculino,70,True,bien,0
+149,masculino,0,False,ha sido interesante con experiencias nuevas,0
+150,femenino,0,False,perfecta,0
+151,masculino,73,True,80 está bastante bien sábado bastante ocupado y eso me ha hecho estar atento a todo lo que tenía que a mi alrededor,0
+152,femenino,80,False,bien,1
+153,femenino,105,True,pues prefiero no contestar,0
+154,masculino,70,False,un poco fastidiado por mí dolor de lumbalgia,0
+155,femenino,50,False,bien,1
+156,masculino,69,True,regular he tenido una pequeña discusión con un amigo,1
+157,masculino,66,False,la semana muy bien muy ajetreada hemos tenido de todo,0
+158,masculino,30,False,más o menos,1
+159,masculino,0,False,bien,0
+160,otro,0,False,genial,1
+161,femenino,0,True,fatal,1
+162,femenino,23,False,bien no me quejo ha estado movido,0
+163,masculino,24,True,normal,1
+164,masculino,70,True,bien,0
+165,masculino,73,True,bueno la semana por ahora bien pero a partir de hoy no puedo salir de casa y creo que si no salgo pues me puede dar la depresión otra vez y esa es mi mi pesar,1
+166,prefiero no contestar,0,False,genial,0
+167,femenino,0,False,fatal,1
+168,masculino,0,True,regular,1
+169,masculino,69,True,pues un poquito pesada,0
+170,masculino,0,False,genial,0
+171,masculino,22,True,muy bien,0
+172,femenino,0,False,regular,1
+173,masculino,0,False,mal,0
+174,prefiero no contestar,0,True,bien,1
+175,masculino,84,False,el lunes por la mañana vino mi hija a verme y trajo a mi nieta nos fuimos al parque y metió energías para el resto de la semana,0
+176,femenino,26,True,puedo saber qué pasó en la aplicación no me dio ninguna respuesta,0
+177,femenino,23,False,muy bien haciendo cuarentena en casa con mi familia,0
+178,otro,78,True,muy muy mal me he sentido muy solo,1
+179,femenino,0,False,pues muy aburrida,0
+180,femenino,27,True,pues bueno mal porque me he enterado de cosas que me han hecho mucho daño y lo estoy intentando superar a base de pastillas y tratamiento,1
+181,femenino,24,False,mal hay una pandemia,1
+182,femenino,27,False,bien pero encerrada en casa debido al confinamiento por el coronavirus que estamos viviendo ahora mismo,0
+183,femenino,27,False,pues la semana me ha ido toda la semana en casa limpiando comiendo cocina aplaudir y poco más,0
+184,femenino,53,False,bastante bien teniendo en cuenta las circunstancias,0
+185,masculino,22,False,increíble,0
+186,masculino,23,False,regular,0
+187,femenino,61,False,en general bien a pesar del confinamiento,0
+188,masculino,24,True,a ver pues la semana bien en casa encerrado estamos en cuarentena no podemos salir a la calle es duro no puedo ir al bar a ver mis amigos que llevo tres meses sin ver es es complicado tío complicado pero pero bien es lo que nos toca por la sanidad porque,0
+189,femenino,61,False,en general podría decir que bastante bien a pesar,1
+190,femenino,24,False,he tenido momentos de ansiedad y estrés y creo que debo organizarme más sin embargo no me ha ido tan mal como otros amigos,0
+191,otro,23,False,hombre aquí confinados y salir pero bien,0
+192,femenino,27,False,pues bastante jodida,1
+193,prefiero no contestar,0,False,bien,0
+194,masculino,0,False,regular,1
+195,femenino,0,True,mal,1
+196,femenino,24,False,estoy intentando que vaya bien porque con lo del coronavirus la verdad es que es bastante aburrido y solitario todo,0
+197,masculino,32,False,bien empezar a trabajar o sea que bien,0
+198,femenino,19,False,bien,0
+199,femenino,18,False,pues mal porque me he despertado muy tarde por la mañana no he aprovechado el día y tengo mucho trabajo de clase,0
+200,femenino,19,False,más o menos con altibajos,1
+201,masculino,18,False,teniendo en cuenta que estamos encerrados en casa pues no muy bien la verdad pero vamos tirando,0
+202,femenino,22,False,pues contando que estamos en cuarentena y tengo ansiedad pues adiós bien y adiós mal,0
+203,femenino,18,False,bueno me ha ido bien aunque como en la actualidad no podemos salir de casa pues pero como estoy viviendo en con gente no me siento sola,0
+204,femenino,22,False,muy bien ya que por el confinamiento estoy todo el día con mi familia,1
+205,femenino,20,False,bien aunque un poco estresada y agobiada por los trabajos de la Universidad,0
+206,femenino,18,False,bien dentro de lo que cabe a pesar de que estar aislado al fin y al cabo es aburrido va más o menos bien,0
+207,femenino,18,False,bien dentro de confinamiento,0
+208,femenino,18,False,en casa con mi familia mis padres y mi hermana,1
+209,femenino,19,False,me ha ido bien,0
+210,femenino,19,False,muy bien aunque un poco agobiante ya que no puedo salir de casa,0
+211,femenino,18,False,"bien, aunque con lo del coronavirus no se puede salir y a veces me siento un poco mal, y necesito compañía de otra gente",0
+212,masculino,18,False,Pues ha sido una semana tranquila pero dura. La cuarentena ya empieza a hacer mella en la estabilidad emocional,1
+213,femenino,30,True,pues debido al coronavirus me ha tocado estar toda la semana en casa,0
+214,femenino,19,False,"es la tercera semana de confinamiento y estoy aburrida, pero por suerte pude venir a casa de mis padres y no me siento sola ya que la mayor parte del tiempo est",0
+215,femenino,18,False,haciendo los trabajos de la Universidad,0
+216,femenino,18,False,estar mucho tiempo en casa es aburrido me gustaría hablar cara a cara con otras personas,0
+217,femenino,19,False,bien,0
+218,masculino,18,False,pues no muy bien estamos en confinamiento,0
+219,femenino,29,True,pues bueno estoy viviendo sola con mi gato de momento mis padres están fuera del país mi hermana está viviendo en otra casa pero he intentado hacer cosas para no sé para no sentirme sola para organizarme para tener cosas,0
+220,femenino,21,False,acondicionador que estamos helados en casa,1
+221,femenino,38,False,y el resultado de Serena,0
+222,masculino,34,False,medio triste,1
+223,femenino,39,True,mucho trabajo mucho que hacer con mi hija,1
+224,masculino,0,False,regular,1
+225,otro,20,False,estudiando como un cenutrio y haciendo un poco de ejercicio,1
+226,masculino,0,False,regular,1
+227,prefiero no contestar,0,False,mal,1
+228,masculino,46,True,la semana ha sido bastante ocupada porque tengo muchos hobbies,0
+229,masculino,22,False,ha sido bastante estresante después de la cuarentena del covid-19,0
+230,femenino,0,True,bien,0
+231,femenino,0,True,bien,1
+232,femenino,20,False,bastante bien,0
+233,femenino,27,False,bastante bien creo que influye en mi caso al menos y creo que es importante el ciclo el ciclo menstrual además de además la situación,1
+234,masculino,23,False,bastante bien aquí encerrado en casa pero intentando aprovechar para hacer muchas cosas,0
+235,femenino,28,False,pues esta semana ha empezado más difícil porque llevamos mucho tiempo de confinamiento y he tenido un como un pico de tristeza o más zapatilla más cansancio de estar encerrada,0
+236,femenino,25,False,bien,0
+237,masculino,26,False,pues ha sido bien,0
+238,masculino,46,False,fatal estoy confirmado en casa por culpa del coronavirus,0
+239,femenino,21,False,pues el fin de semana hice actividades con mis padres y durante el resto de semana ha intentado estudiar aunque tengo un poco de estrés y ansiedad y no estoy muy animada,1
+240,masculino,51,False,"bastante buena. estando en confinamiento, últimos días con ansiedad",0
+241,masculino,21,False,debido al confinamiento he estado bastante solo a pesar de vivir con mi madre y me he sentido y lado varias veces durante la semana,1
+242,femenino,39,True,bastante bien me entretengo haciendo cosas,0
+243,femenino,22,False,pues la semana si un poco agobiante por esta situación de cuarentena pero tengo la suerte de vivir con mi familia y pues es un gran una gran ayuda y distracción ahora mismo,0
+244,masculino,26,False,miedo porque tengo trabajo que hacer y mi rutina nos ha visto alterada por la situación,0
+245,masculino,42,False,en general mal,0
+246,masculino,0,False,pues me ha ido bastante bien ah sí,1
+247,femenino,20,False,bastante mal no soy nada productiva la cuarentena es muy dura pero se va llevando,1
+248,masculino,0,True,regular,1
+249,prefiero no contestar,0,False,muy bien,0
+250,femenino,0,False,mal,1
+251,masculino,55,False,muy larga,1
+252,masculino,28,True,pues bien la verdad trabajando y en cuarentena por las tardes viendo la piscina por las mañanas,1
+253,femenino,28,False,he estado trabajando en casa tranquilamente y hecho deporte con mi pareja,0
+254,prefiero no contestar,0,False,no,1
+255,femenino,28,False,pues bastante bien estoy en casa y bien no estoy sola estoy con gente y encerrada en casa por el confinamiento podría ser mejor pero estoy tranquila en casa con mi familia,0
+256,femenino,105,False,bien,1
+257,masculino,0,True,me ha ido bien aunque he hecho pocas cosas,1
+258,masculino,0,False,me he ido muy bien pero llevo muchos días sin salir de casa y necesito pasear,1
+259,masculino,38,True,bien un poco aburrida pero no ha estado mal,0
+260,femenino,0,True,regular,1
+261,masculino,0,False,bien,1
+262,prefiero no contestar,0,False,mal,0
+263,masculino,41,False,byanima,1
+264,femenino,72,True,aburrida menos mal que tengo la tele,1
+265,masculino,0,False,recién estoy Comenzando la semana y estoy bien relativamente bien,1
+266,masculino,83,True,pues con esto del coronavirus no he podido salir de casa aunque tengo un vecino muy amable que me hace la compra,1
+267,femenino,55,False,pues muy bien,0
+268,masculino,23,False,bien por el momento,0
+269,masculino,16,False,bien hablando cuál es la piel de los deberes y bien,1
+270,femenino,58,True,bien pero quiero salir,0
+271,masculino,67,True,la semana me ha ido bien,0
+272,prefiero no contestar,0,False,"He estado muy desmotivadx, apenas he dormido y me he sentido muy vacix, como si no supiera quien soy",1
+273,femenino,60,False,ha sido una semana extraña he salido de un aislamiento,0
+274,masculino,0,True,mal,1
+275,prefiero no contestar,0,False,bien,0
+276,femenino,0,False,regular,1
+277,masculino,67,True,la semana me ha ido muy bien,0
+278,otro,56,True,estamos en confinamiento asi que un rollo,1
