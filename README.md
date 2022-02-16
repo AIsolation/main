@@ -35,4 +35,5 @@ Notebook: https://colab.research.google.com/drive/1SDWTV6KKTI0vJ_Tf32n8QWG-6fF_s
 ## Links externos
 Articulo en Medium: ----url
 https://huggingface.co/
+-
 https://streamlit.io/
