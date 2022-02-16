@@ -33,7 +33,7 @@ Modelo final entrenado con datos_serena_mod.csv.
 Notebook: https://colab.research.google.com/drive/1SDWTV6KKTI0vJ_Tf32n8QWG-6fF_sK0I?usp=sharing
 
 ## Links externos
-Articulo en Medium: ----url
+####Articulo en Medium: ----url
 -
 https://huggingface.co/
 -
