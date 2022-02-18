@@ -42,7 +42,8 @@ Notebook: https://colab.research.google.com/drive/1s44drJEzbw6BTeabrKGIGlCEnVCZ5
 
 
 ## Links externos
-Articulo en Medium: ----url
+Articulo en Medium: 
+https://medium.com/@santi1batc_74768/aisolation-detecci%C3%B3n-de-la-soledad-d99810a18ccc
 
 https://huggingface.co/
 
